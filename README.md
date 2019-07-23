@@ -38,5 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 #### [SOFTWARE](software.md)
 
-[AUDIO-VISUAL](audiovisual.md)
+#### [AUDIO-VISUAL](audiovisual.md)
+
+#### [PROJECTION MAPPING | WORKSHOP](projectionmappingmillumin.md)
 
