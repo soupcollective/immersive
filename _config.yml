@@ -1,9 +1,4 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-pinboard:
-   token: Geemarc:E683A3252379EBDA0109
-   tags:
-     - immersive
-     - av
-     - mapping
+
