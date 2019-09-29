@@ -18,6 +18,7 @@ A brief intro to some audio-visual works/artists spanning 50+ years.
 
 Using Millumin, this workshop provides a basic induction into projection mapping.
 
-
-
 #### [LINK TO PADLET](https://padlet.com/soupcollective/t5tvfkzb5a4f)
+
+Please add to this any examples of good projects, interesting practitioners etc. to discuss during sessions.
+
