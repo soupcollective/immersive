@@ -1,4 +1,4 @@
-## Immersive R&D
+## R&D
 
 
 
@@ -16,7 +16,7 @@ A brief intro to some audio-visual works/artists spanning 50+ years.
 
 #### [PROJECTION MAPPING | WORKSHOP](projectionmappingmillumin.md)
 
-Using Millumin, this workshop provides a basic induction into projection mapping
+Using Millumin, this workshop provides a basic induction into projection mapping.
 
 
 
