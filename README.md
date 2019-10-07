@@ -1,6 +1,6 @@
 ## R&D
 
-
+![](https://www.dropbox.com/s/ta5hnv53p7v31qr/immersive.jpg?dl=0)
 
 #### [INTRO](intro.md)
 
@@ -26,3 +26,4 @@ Using Millumin, this workshop provides a basic induction into projection mapping
 
 Please add to this any examples of good projects, interesting practitioners etc. to discuss during sessions.
 
+#### [LINKS](links)
