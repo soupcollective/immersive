@@ -14,7 +14,7 @@ A list of software to explore/play with.
 
 A brief intro to some audio-visual works/artists spanning 50+ years.
 
-#### [LIVE AUDIO-VISUAL](live.md)
+#### [LIVE AUDIO-VISUAL](liveav.md)
 
 #### [INTRO TO VDMX](vdmx_intro.md)
 
