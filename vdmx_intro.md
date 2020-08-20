@@ -12,7 +12,7 @@ TAKEN/ADAPTED FROM THE VID VOX OPEN SOURCE LEARNING RESOURCE [DYNAMIC DESIGN IN 
 
 ---
 
-### Overview[](https://vidvox.github.io/vvedu/handout_module_1.html#lesson-overview)
+## Overview[](https://vidvox.github.io/vvedu/handout_module_1.html#lesson-overview)
 
 - Inputs / Sources
 
